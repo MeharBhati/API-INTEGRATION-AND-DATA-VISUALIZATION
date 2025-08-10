@@ -46,3 +46,35 @@ Development Environment: Jupyter Notebook, Visual studio code.
 
 Version Control: GitHub for storing code and reports
 
+
+***Output**
+
+<img width="1678" height="1182" alt="Image" src="https://github.com/user-attachments/assets/419459b7-0c3d-4b35-b859-36512a798aa2" />
+
+<img width="970" height="752" alt="Image" src="https://github.com/user-attachments/assets/e28270c8-2cc6-47f4-aa59-63a08364bf78" />
+
+<img width="1262" height="525" alt="Image" src="https://github.com/user-attachments/assets/72dc0173-8237-46f7-8c73-dc5e79c7303b" />
+
+<img width="1192" height="865" alt="Image" src="https://github.com/user-attachments/assets/ffe2246e-0387-4375-8199-7d615a400bf0" />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
